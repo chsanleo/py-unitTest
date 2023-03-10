@@ -37,3 +37,9 @@ Es importante alcanzar un grado de cobertura cercano al 100%
 > def cuadrado(a): return pow(a,2)
 > def raiz(a): return math.sqrt(a)
 > def es_par(a): return 1 if a%2 == 0 else 0
+
+
+NOTA: pyCharm community no tiene el coverage activado, para ello si se ejecuta 
+>py Coverage.py
+
+se creará una carpeta llamada covhtml y dentro una web, entrando en el index podemos ver el coverage
