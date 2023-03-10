@@ -14,3 +14,11 @@ la funcionalidad de unittest.
 
 > def doblar(a): return a * 2
 > def sumar(a,b): return a + b
+
+
+**KATA III:** 
+En esta kata vamos a trabajar la diferencia que existe entre skip y subtest con dos sencillos ejemplos:
+    - En el primer ejemplo validaresmoa la funcionalidad de "numpy"
+    - En el segundo ejemplo haremos una doble validacion de una funciona aplicada a un array de enteros utilzando para
+        ello los subtest
+
