@@ -7,3 +7,10 @@ Funciones:
     - upper()
     - isupper()
     - spit()
+
+**KATA II:**
+En esta kata vamos a crear las pruebas unitarias necesarias, sobre el codigo que aparece a continuacion utilizando
+la funcionalidad de unittest.
+
+> def doblar(a): return a * 2
+> def sumar(a,b): return a + b
